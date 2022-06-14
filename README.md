@@ -1,5 +1,4 @@
 <h1 align="center">Hello! Folks👋 I'm Aneri Sonani</h1>
-<img src = https://www.google.com/search?q=girl+with+laptop+illustration&sxsrf=ALiCzsam5c9fDbrbkThonT4e52P8w2cO6Q:1655214459062&tbm=isch&source=iu&ictx=1&vet=1&fir=Lf0pa4_DgUsLHM%252C0XTXf7GlGZKvPM%252C_%253BXXGbEZNf-yCvHM%252COoNNTxGcoW7GPM%252C_%253BMR-8srt9ek1NnM%252CF_58H2KJ0VnZMM%252C_%253BphLGdL1-nXBBaM%252CHTd_hjatpwnyFM%252C_%253BE8yzm9brzeu6VM%252CJB2yE3xjkVV6OM%252C_%253BMNLi1vC-wAjjsM%252ChIawLtXAp_pHkM%252C_%253BzDYmfyYHV1maFM%252CgO9Z7L7x5e6DHM%252C_%253Ba4Pj21iH5Aw10M%252C0XTXf7GlGZKvPM%252C_%253BzhAhAtSPtvaMaM%252CJqGOwMflu73VOM%252C_%253BkLpr-6swHK9N3M%252C1cDLM-laPkjI4M%252C_%253Bx61iMIBI7QnJ3M%252C4dSc5qJKlTZLTM%252C_%253BG2DHUU2dTFXc-M%252CmV3gqoNDUkOp9M%252C_%253Bmct2S53Sg-_wvM%252CR42MB1DSw-dZvM%252C_%253B7uWfdGfOAHwXIM%252CAW3YwEuux8pUyM%252C_&usg=AI4_-kQZ1aIWm44P4651YAp8DMM4rGm1aA&sa=X&ved=2ahUKEwi35u-uiq34AhUYkNgFHdvxAJ0Q9QF6BAgKEAE#imgrc=XXGbEZNf-yCvHM&imgdii=ijx-HDl9LJrgxM alt = "aneri">
 <h3 align="center">passionate About Learning Various Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
