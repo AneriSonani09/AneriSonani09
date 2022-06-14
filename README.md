@@ -1,9 +1,6 @@
 <h1 align="center">Hello! Folks👋 I'm Aneri Sonani</h1>
 <h3 align="center">passionate About Learning Various Technology</h3>
 
-- 👨‍💻 All of my projects are available at [https://anerisonani09.github.io/portfolio/](https://anerisonani09.github.io/portfolio/)
-
-- 📫 How to reach me **sonani754@gmail.com**
 
 
 
