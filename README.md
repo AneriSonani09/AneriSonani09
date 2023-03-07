@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Folks👋 I'm Aneri Sonani</h1>
-<h3 align="center">passionate About Learning Various Technology</h3>
+<h3 align="center">passionate About Learning Various Technology.</h3>
 <center>
-<img src="image.jpg" width="74%">
+<img src="image.jpg" width="100%" height="80%">
 <center>
 
 ## ^_^ Programming Languages
