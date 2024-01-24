@@ -1,6 +1,6 @@
 
 <center>
-<img src="image.jpg.png" width="100%" height="80%">
+<img src="image.png" width="100%" height="80%">
 <center>
 
 ## ^_^ Programming Languages
