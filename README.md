@@ -3,64 +3,76 @@
 <img src="image.png" width="100%" height="80%">
 <center>
 
-## ^_^ Programming Languages
-
+<p align = "center"> <h3> Let's Connect :) </h3> </p>
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
-<!--     <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white"></a> -->
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"></a>
-    <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"></a>
+	<a href="https://linkedin.com/in/anerisonani" />
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/AneriSonani">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+	
+  <a href="mailto:=anerisonani09@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://stackoverflow.com/users/15392348/ayush-rudani"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<br><br>
 </p>
 
-## 💻 Frameworks, Platforms and Libraries
-<p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></a>
-	<a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></a>
+<hr>
 
-</p>
+<br>
 
-### 🖥 Operating Systems
-<p>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
-  
-</p>
+## What I've Explored !
 
-## 🔭 Browsers
-<p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
+### 🚀 Languages
 
-## 🏬 Databases and Cloud hosting
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white"></a>
-</p> 
+<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
-## 🛠 Software and Tools
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"></a>
-<!-- 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a> -->
-	<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"></a>
-</p>
+### 💻 Libraries & Framework
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anerisonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anerisonani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anerisonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anerisonani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anerisonani09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anerisonani09" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anerivsonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anerivsonani" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anerisonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anerisonani" height="30" width="40" /></a>
-</p>
+### 🧑🏻‍💻 Tools & Platform
+<!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<br>
