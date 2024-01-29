@@ -16,12 +16,12 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://stackoverflow.com/users/15392348/ayush-rudani"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<br><br>
-</p>
-
-<hr>
-
 <br>
+</p>
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=anerisonani09&style=flat-square">
+</a> -->
+<hr>
 
 ## What I've Explored !
 
